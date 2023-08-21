@@ -1,0 +1,19 @@
+[
+    {
+        "id": "b255f5c06ce97679",
+        "type": "http in",
+        "z": "33185777f4e3c557",
+        "name": "",
+        "url": "/AL30D1",
+        "method": "get",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 210,
+        "y": 1800,
+        "wires": [
+            [
+                "9033f33caffae50f"
+            ]
+        ]
+    }
+]
